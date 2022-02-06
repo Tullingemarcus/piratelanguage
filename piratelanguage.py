@@ -1,5 +1,5 @@
+#importerar nödvändiga biblotek
 from gtts import gTTS
-
 import os
 
 VOWELS = 'AEIOUYÅÄÖ'
