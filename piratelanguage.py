@@ -27,6 +27,7 @@ def main() -> None:
             final_word = ""
     return final_word
 
+#returnerar den givna bokstaven om den finns i VOWELS
 def is_vowel(letter: str) -> bool:
     return letter.upper() in VOWELS
 
